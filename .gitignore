@@ -1,0 +1,1 @@
+-e ".vscode/\nnode_modules/\n.env" 
